@@ -1,0 +1,17 @@
+.main-scrollbox {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+.title-text {
+    text-align: center;
+}
+.date {
+    font-style: italic;
+}
+.subtitle {
+    font-style: italic;
+}
+p {
+    font-size: 24px;
+}
